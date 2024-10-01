@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on building my QA team and supporting the development of each member
+- 🌱 I’m currently learning Playwright/Postman
+- 💬 Ask me about guitars, music, movies.
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: A giraffe once stole my ice cream at a zoo and I've held a grudge against them ever since!
+
+ [![roadmap.sh](https://roadmap.sh/card/tall/66fae421c45e253cb0957bcc?variant=dark)](https://roadmap.sh)
